@@ -1,0 +1,4 @@
+[submodule "godot-addons-as-submodules"]
+	path = godot-addons-as-submodules
+	url = git@github.com:gregkrsak/godot-addons-as-submodules.git
+	branch = main
